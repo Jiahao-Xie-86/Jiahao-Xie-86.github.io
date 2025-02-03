@@ -15,7 +15,7 @@ links:
    paper:      https://ieeexplore.ieee.org/abstract/document/10397289      
    bibtex:     assets/publications/2023-rotor/ref.txt
 
-layout: project
+layout: project_plus
 short_title: IEEE CVCI
 abstract: "The rotor is an important part of the induction motor, which is widely used in all kinds of traffic equipment. Due to the heavy loads, the rotor becomes one of the most fragile components. Luckily, modern condition monitoring technology brings great convenience in fault detection of the rotor. However, the existing sampling frequency of the signal also brings a large system overhead. Reducing the sampling frequency is a common way for reducing the cost, which also will bring side effects to the performance of existing diagnosis methods. Hence, a feature extraction method for low sampling frequency vibration signals is proposed in this research. And even the simple KNN methods can achieve an accuracy of 0.9993 under the sampling frequency of 256 Hz."
 ---
