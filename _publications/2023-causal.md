@@ -21,7 +21,7 @@ links:
    paper:      https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1173974/full
    bibtex:     assets/publications/2023-causal/ref.bib
 
-layout: project
+layout: project_plus
 short_title: Causal Effects
 abstract: "Background: The coronavirus disease 2019 (COVID-19) caused a global pandemic, with potential severity. We aimed to investigate whether genetically predicted gut microbiome is associated with susceptibility and severity of COVID-19 risk.
 Methods: Mendelian randomization (MR) analysis of two sets with different significance thresholds was carried out to infer the causal relationship between the gut microbiome and COVID-19. SNPs associated with the composition of the gut microbiome (n = 5,717,754) and with COVID-19 susceptibility (n = 14,328,058), COVID-19 severity (n = 11,707,239), and COVID-19 hospitalization (n = 12,018,444) from publicly available genome-wide association studies (GWAS). The random-effect inverse variance weighted (IVW) method was used to determine causality. Three more MR techniques—MR Egger, weighted median, and weighted mode—and a thorough sensitivity analysis were also used to confirm the findings.
