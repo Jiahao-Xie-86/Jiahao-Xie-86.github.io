@@ -15,7 +15,7 @@ authors:
     - Yue Guo
 venue:          Frontiers in Immunology.
 year:           "2023-09"
-thumbnail:      assets/publications/2023-causa/title-image.png
+thumbnail:      assets/publications/2023-causa/title-image.jpg
 bibtex: "@article{zhong2023causal,title={Causal effects of the gut microbiome on COVID-19 susceptibility and severity: a two-sample Mendelian randomization study},author={Zhong, Meng-Mei and Xie, Jia-Hao and Feng, Yao and Zhang, Shao-Hui and Xia, Jiang-Nan and Tan, Li and Chen, Ning-Xin and Su, Xiao-Lin and Zhang, Qian and Feng, Yun-Zhi and others},journal={Frontiers in Immunology},volume={14},pages={1173974},year={2023},publisher={Frontiers Media SA}}"
 links:
    paper:      https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1173974/full
