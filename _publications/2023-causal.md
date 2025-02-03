@@ -1,5 +1,5 @@
 ---
-id:             2023-z-causal
+id:             2023-causal
 title:          "Causal effects of the gut microbiome on COVID-19 susceptibility and severity: a two-sample Mendelian randomization study"
 authors:        
     - Mengmei Zhong 
