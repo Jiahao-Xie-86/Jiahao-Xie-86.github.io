@@ -6,7 +6,7 @@ authors:
     - Hui Liu
     - Yamin Fang
     - Mengshuai Su
-    - me
+    - Me
 venue:          The 7th CAA International Conference on Vehicular Control and Intelligence (CVCI), Changsha, China, 2023.
 year:           "2023-10"
 thumbnail:      assets/publications/2023-rotor/title-image.png
