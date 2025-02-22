@@ -3,27 +3,27 @@ position: Ph.D. Student (jiahaox at udel dot edu)
 institution:
   - University of Delaware
   - Department of Computer & Information Sciences
-# links:
-#   Email:    "mailto:jiahaox@udel.edu"
-#   CV:       "assets/files/Resume_Jiahao.pdf"
-#   Scholar:  "https://scholar.google.com/citations?user=xi2_eIcAAAAJ&hl=en"
-#   ORCID: "https://orcid.org/0009-0002-8716-6566"
-#   Github:   "https://github.com/Jiahao-Xie-86"
-#   LinkedIn:   "https://www.linkedin.com/in/jiahao-xie-124684309/"
-
 links:
-  Email:
-    url: "mailto:jiahaox@udel.edu"
-    icon: "fas fa-envelope"
-  CV:
-    url: "assets/files/Resume_Jiahao.pdf"
-    icon: "fas fa-file-alt"
-  Scholar:
-    url: "https://scholar.google.com/citations?user=xi2_eIcAAAAJ&hl=en"
-    icon: "fas fa-graduation-cap"
-  Github:
-    url: "https://github.com/Jiahao-Xie-86"
-    icon: "fab fa-github"
-  LinkedIn:
-    url: "https://www.linkedin.com/in/jiahao-xie-124684309/"
-    icon: "fab fa-linkedin"
+  Email:    "mailto:jiahaox@udel.edu"
+  CV:       "assets/files/Resume_Jiahao.pdf"
+  Scholar:  "https://scholar.google.com/citations?user=xi2_eIcAAAAJ&hl=en"
+  ORCID: "https://orcid.org/0009-0002-8716-6566"
+  Github:   "https://github.com/Jiahao-Xie-86"
+  LinkedIn:   "https://www.linkedin.com/in/jiahao-xie-124684309/"
+
+# links:
+#   Email:
+#     url: "mailto:jiahaox@udel.edu"
+#     icon: "fas fa-envelope"
+#   CV:
+#     url: "assets/files/Resume_Jiahao.pdf"
+#     icon: "fas fa-file-alt"
+#   Scholar:
+#     url: "https://scholar.google.com/citations?user=xi2_eIcAAAAJ&hl=en"
+#     icon: "fas fa-graduation-cap"
+#   Github:
+#     url: "https://github.com/Jiahao-Xie-86"
+#     icon: "fab fa-github"
+#   LinkedIn:
+#     url: "https://www.linkedin.com/in/jiahao-xie-124684309/"
+#     icon: "fab fa-linkedin"
