@@ -138,12 +138,12 @@
               <div class="col-4 text-center mb-2">
                 {% if link[0] == "Office" %}
                   <a data-toggle="collapse" href="#office" role="button" aria-expanded="false" aria-controls="collapse-office"
-                     class="d-flex flex-column align-items-center">
+                     class="d-flex align-items-center justify-content-center gap-2">
                     <i class="{{ link[1].icon }}"></i> 
                     <span>{{ link[0] }}</span>
                   </a>
                 {% else %}
-                  <a href="{{ link[1].url }}" target="_blank" class="d-flex flex-column align-items-center">
+                  <a href="{{ link[1].url }}" target="_blank" class="d-flex align-items-center justify-content-center gap-2">
                     <i class="{{ link[1].icon }}"></i> 
                     <span>{{ link[0] }}</span>
                   </a>
