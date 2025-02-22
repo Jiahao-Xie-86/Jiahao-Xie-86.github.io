@@ -110,7 +110,7 @@
             {% endif %}
             {% endfor %}
           </div> -->
-<!--           <div class="header-2 mt-2">
+          <div class="header-2 mt-2">
           <div class="collapse py-2" id="office">
             <b>Address:</b><br>{{ site.data.info.links["Office"].url }}
           </div>
@@ -126,27 +126,6 @@
               </a>&emsp;
             {% endif %}
           {% endfor %}
-        </div> -->
-        <div class="header-2 mt-2">
-          <div class="collapse py-2 w-100" id="office">
-            <b>Address:</b><br>{{ site.data.info.links["Office"].url }}
-          </div>
-        
-          <div class="row"> 
-            {% for link in site.data.info.links %}
-              <div class="col-md-2 col-sm-2 col-2 mb-2 text-center">
-                {% if link[0] == "Office" %}
-                  <a data-toggle="collapse" href="#office" role="button" aria-expanded="false" aria-controls="collapse-office">
-                    <i class="{{ link[1].icon }}"></i> {{ link[0] }}
-                  </a>
-                {% else %}
-                  <a href="{{ link[1].url }}" target="_blank">
-                    <i class="{{ link[1].icon }}"></i> {{ link[0] }}
-                  </a>
-                {% endif %}
-              </div>
-            {% endfor %}
-          </div>
         </div>
 
         </div>
