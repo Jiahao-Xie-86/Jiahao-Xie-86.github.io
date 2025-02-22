@@ -21,9 +21,6 @@ links:
   Scholar:
     url: "https://scholar.google.com/citations?user=xi2_eIcAAAAJ&hl=en"
     icon: "fas fa-graduation-cap"
-  ORCID:
-    url: "https://orcid.org/0009-0002-8716-6566"
-    icon: "fab fa-orcid"
   Github:
     url: "https://github.com/Jiahao-Xie-86"
     icon: "fab fa-github"
