@@ -59,17 +59,21 @@
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#publications">Publications</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#service">Service</a>
-        </li>
+       
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#patent">Patents</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#teaching">Teaching & Collab</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#service">Service</a>
         </li>
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#education">Education</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#internship">Intern & Collab</a>
+          <a class="nav-link js-scroll-trigger" href="#internship">Intern </a>
         </li>
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#misc">MISC</a>
@@ -368,17 +372,7 @@
   </div>
 </section>
 
-<!-- service-->
-<section class="container lead" >
-  <hr>
-  <a class="anchor" id="service"></a>
-  <h1 class="col-12 px-0 mb-0">Service</h1>
-  <ul class="my-0 px-2" style="list-style-type: none; ">
-    {% for ss in site.data.service %}
-    <li>{{ ss }}</li>
-    {% endfor %}
-  </ul>
-</section>
+
 
 <!-- Patent-->
 <section class="container lead" >
@@ -397,6 +391,50 @@
     <li><p class="lead"> <a href="https://patents.google.com/patent/CN214426975U/en?" target="_blank">Automatic calibration device and system for fuel cell engine. CN214426975U.</a></li>
  </ul>
     <p class="lead"></p>
+  </ul>
+</section>
+
+<!-- teaching & collab -->
+<section class="container lead">
+  <hr>
+  <a class="anchor" id="teaching"></a>
+  <h1 class="col-12 px-0 mb-0">Teach & Collab</h1>
+  <ul class="my-0 px-2" style="list-style-type: none;">
+    <li class="mb-2">
+      <p class="lead">
+        <strong>Teaching Assistant:</strong><br>
+        Algorithm Design and Analysis (CISC621, Fall 2024)<br>
+        Introduction to Algorithms (CISC320, Spring 2025)
+      </p>
+    </li>
+
+    <li class="mb-2">
+      <p class="lead">
+        Since September 2024, I have been collaborating with undergraduate RA 
+        <a href="https://www.linkedin.com/in/trungtng/" target="_blank">Trung Nguyen</a> 
+        on learning 3D graph layout.
+      </p>
+    </li>
+
+    <li>
+      <p class="lead">
+        From September to December 2024, I collaborated with undergraduate RA 
+        <a href="https://www.linkedin.com/in/brendon-uzoigwe-569935259/" target="_blank">Brendon Uzoigwe</a> 
+        to design new graph layout algorithms.
+      </p>
+    </li>
+  </ul>
+</section>
+
+<!-- service-->
+<section class="container lead" >
+  <hr>
+  <a class="anchor" id="service"></a>
+  <h1 class="col-12 px-0 mb-0">Service</h1>
+  <ul class="my-0 px-2" style="list-style-type: none; ">
+    {% for ss in site.data.service %}
+    <li>{{ ss }}</li>
+    {% endfor %}
   </ul>
 </section>
 
