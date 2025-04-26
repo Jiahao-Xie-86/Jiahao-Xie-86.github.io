@@ -1,0 +1,8 @@
+@article{wang2025data,
+  title={Data-driven Decision Making for Social Influence Risk Management},
+  author={Wang, Siqi and Xie, Jiahao and Wang, Yifan and Tong, Guangmo},
+  journal={Risk Sciences},
+  pages={100019},
+  year={2025},
+  publisher={Elsevier}
+}
