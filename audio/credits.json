@@ -1,0 +1,87 @@
+{
+  "license": "CC0-1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "modifications": "Selected excerpts; silence trimmed; mono 22050 Hz PCM WAV; DC removal; balanced levels; edge fades; crossfaded flame and drone loops. Revised impacts layer CC0 explosions with filtered distant rumble, pitched and filtered separately for rocket, meteor and grenade, with tapered tails. Legacy Arc crackles layer recorded Tesla sparks with electric crackle and an electric impact. Current Arc uses 320-340 ms electric buzz excerpts, not impact layers. Legacy shotgun samples use recorded Mossberg shot transients. Current Scatter layers seven Pulse samples, detuned slightly with offsets no greater than 10 ms, preserving Pulse's timbre with a denser simultaneous volley. Current jetpack uses velcronator's CC0 recordings, filtered to soften high-frequency hiss and remove low engine rumble, trimmed into ignition, a two-second crossfaded thrust loop and a tapered stop. Runtime gain and pitch follow lift, hover and descent. The previous Kenney jetpack mix is retained as an unused asset. Laser uses a 480 ms excerpt with rising volume and pitch for charge, then a separate 280 ms Kenney laser release. Playback uses small pitch variations and weapon-specific mixing.",
+  "sources": [
+    {
+      "title": "Jetpack SFX",
+      "author": "velcronator",
+      "url": "https://freesound.org/people/velcronator/packs/40938/",
+      "license": "CC0-1.0",
+      "sourceUrls": ["https://freesound.org/people/velcronator/sounds/733981/", "https://freesound.org/people/velcronator/sounds/733987/"],
+      "downloads": ["https://cdn.freesound.org/previews/733/733981_6703998-hq.mp3", "https://cdn.freesound.org/previews/733/733987_6703998-hq.mp3"],
+      "files": { "jetpack-thrust.wav": "Jetpack SFX Looped 01 (filtered, pitched, crossfaded two-second excerpt)", "jetpack-ignite.wav": "Jetpack SFX Unlooped (onset excerpt)", "jetpack-stop.wav": "Jetpack SFX Unlooped (tapered tail excerpt)" }
+    },
+    {
+      "title": "Sound effects Pack 2",
+      "author": "phoenix1291 / SwissArcadeGameEntertainment",
+      "url": "https://opengameart.org/content/sound-effects-pack-2",
+      "license": "CC0-1.0",
+      "files": { "pulse-a.wav": "Laser-weapon 10", "pulse-b.wav": "Laser-weapon 7", "scatter-pulse-a.wav": "Laser-weapon 10 + Laser-weapon 7 (seven layers from edited Pulse samples)", "scatter-pulse-b.wav": "Laser-weapon 7 + Laser-weapon 10 (seven layers from edited Pulse samples)", "scatter-a.wav": "Explosion 8", "scatter-b.wav": "Explosion 7", "grenade.wav": "Hit 3", "drone-shot.wav": "Laser-weapon 5", "split.wav": "Hit 8", "boom-a.wav": "Explosion 3", "boom-b.wav": "Explosion 4" }
+    },
+    {
+      "title": "Digital Audio",
+      "author": "Kenney",
+      "url": "https://kenney.nl/assets/digital-audio",
+      "license": "CC0-1.0",
+      "files": { "beam-a.wav": "laser6", "drone.wav": "lowThreeTone", "arc-a.wav": "zap1", "arc-b.wav": "zap2", "dive.wav": "lowDown" }
+    },
+    {
+      "title": "Sci-fi Sounds",
+      "author": "Kenney",
+      "url": "https://kenney.nl/assets/sci-fi-sounds",
+      "license": "CC0-1.0",
+      "files": { "pump.wav": "impactMetal_004", "beam-b.wav": "laserRetro_002", "laser-release.wav": "laserRetro_002 (excerpt from edited beam-b.wav)", "rocket.wav": "thrusterFire_000", "drone-loop.wav": "engineCircular_002", "flame-loop.wav": "thrusterFire_002", "jetpack-loop.wav": "thrusterFire_002 + engineCircular_002 (crossfaded mix from edited flame and drone loops)", "cluster.wav": "doorOpen_000", "gravity.wav": "forceField_000", "meteor.wav": "spaceEngineLow_000" }
+    },
+    {
+      "title": "Explosions",
+      "author": "EZduzziteh",
+      "url": "https://opengameart.org/content/explosions-4",
+      "license": "CC0-1.0",
+      "files": { "rocket-impact.wav": "explosion1.ogg", "meteor-impact.wav": "explosion3.ogg + explosion1.ogg", "grenade-impact.wav": "explosion2.ogg + explosion1.ogg" }
+    },
+    {
+      "title": "Muffled Distant Explosion",
+      "author": "NenadSimic",
+      "url": "https://opengameart.org/content/muffled-distant-explosion",
+      "license": "CC0-1.0",
+      "files": { "rocket-impact.wav": "NenadSimic - Muffled Distant Explosion.wav (low rumble layer)", "meteor-impact.wav": "NenadSimic - Muffled Distant Explosion.wav (low rumble layer)" }
+    },
+    {
+      "title": "Electricity Sound Effects",
+      "author": "Brian MacIntosh / BMacZero",
+      "url": "https://opengameart.org/content/electricity-sound-effects-0",
+      "license": "CC0-1.0",
+      "files": { "arc-crackle-a.wav": "spark.wav", "arc-crackle-b.wav": "spark.wav" }
+    },
+    {
+      "title": "Electricity Game Sound Pack",
+      "author": "faxcorp",
+      "url": "https://opengameart.org/content/electricity-game-sound-pack",
+      "license": "CC0-1.0",
+      "files": { "arc-crackle-a.wav": "crackleelectricityloop.wav + groundhit.wav", "arc-crackle-b.wav": "crackleelectricityloop.wav + groundhit.wav" }
+    },
+    {
+      "title": "The Free Firearm Sound Library",
+      "author": "Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney",
+      "url": "https://opengameart.org/content/the-free-firearm-sound-library",
+      "license": "CC0-1.0",
+      "files": { "shotgun-a.wav": "Prepared SFX Library/Mossberg/N_30P.wav", "shotgun-b.wav": "Prepared SFX Library/Mossberg/N_26P.wav" }
+    },
+    {
+      "title": "Electric Buzz",
+      "author": "themightyglider (derived from soundtracvkradio)",
+      "url": "https://opengameart.org/content/electric-buzz",
+      "originalUrl": "https://freesound.org/people/soundtracvkradio/sounds/394679/",
+      "license": "CC0-1.0",
+      "files": { "arc-current-a.wav": "buzz.ogg", "arc-current-b.wav": "buzz.ogg" }
+    },
+    {
+      "title": "Overloading Sound",
+      "author": "jwiese",
+      "url": "https://opengameart.org/content/overloading-sound",
+      "license": "CC0-1.0",
+      "files": { "laser-charge.wav": "overloading.wav (480 ms edited excerpt)" }
+    }
+  ]
+}

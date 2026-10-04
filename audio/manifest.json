@@ -1,0 +1,32 @@
+{
+  "version": 5,
+  "sampleRate": 22050,
+  "license": "CC0-1.0",
+  "credits": "credits.json",
+  "sounds": {
+    "pulse": { "files": ["pulse-a.wav", "pulse-b.wav"], "gain": 0.65, "rate": 1 },
+    "scatter": { "files": ["scatter-pulse-a.wav", "scatter-pulse-b.wav"], "gain": 0.78, "rate": 1 },
+    "beam": { "files": ["laser-release.wav"], "gain": 0.7, "rate": 1 },
+    "beamCharge": { "files": ["laser-charge.wav"], "gain": 0.48, "rate": 1 },
+    "rocket": { "files": ["rocket.wav"], "gain": 0.5, "rate": 0.95 },
+    "drone": { "files": ["drone.wav"], "gain": 0.35, "rate": 1.1 },
+    "flame": { "files": ["flame-loop.wav"], "gain": 0.4, "rate": 1 },
+    "cluster": { "files": ["cluster.wav"], "gain": 0.5, "rate": 1.1 },
+    "arc": { "files": ["arc-current-a.wav", "arc-current-b.wav"], "gain": 0.6, "rate": 1 },
+    "gravity": { "files": ["gravity.wav"], "gain": 0.45, "rate": 0.8 },
+    "meteor": { "files": ["meteor.wav"], "gain": 0.5, "rate": 1 },
+    "explosion": { "files": ["boom-a.wav", "boom-b.wav"], "gain": 0.8, "rate": 1 },
+    "rocketImpact": { "files": ["rocket-impact.wav"], "gain": 0.78, "rate": 1 },
+    "meteorImpact": { "files": ["meteor-impact.wav"], "gain": 0.85, "rate": 1 },
+    "grenadeImpact": { "files": ["grenade-impact.wav"], "gain": 0.7, "rate": 1 },
+    "grenade": { "files": ["grenade.wav"], "gain": 0.3, "rate": 1 },
+    "droneShot": { "files": ["drone-shot.wav"], "gain": 0.35, "rate": 1.1 },
+    "dive": { "files": ["dive.wav"], "gain": 0.45, "rate": 1.2 },
+    "clusterSplit": { "files": ["split.wav"], "gain": 0.4, "rate": 1 },
+    "pump": { "files": ["pump.wav"], "gain": 0.3, "rate": 1 },
+    "droneLoop": { "files": ["drone-loop.wav"], "gain": 0.22, "rate": 1 },
+    "jetpack": { "files": ["jetpack-thrust.wav"], "gain": 0.42, "rate": 1 },
+    "jetpackIgnite": { "files": ["jetpack-ignite.wav"], "gain": 0.3, "rate": 1 },
+    "jetpackStop": { "files": ["jetpack-stop.wav"], "gain": 0.23, "rate": 1 }
+  }
+}
