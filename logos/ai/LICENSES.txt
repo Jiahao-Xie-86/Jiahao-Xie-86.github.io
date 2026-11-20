@@ -6,7 +6,8 @@ imply affiliation, sponsorship, or endorsement.
 
 Lobe Icons (@lobehub/icons-static-svg 1.101.0)
 Source: https://github.com/lobehub/lobe-icons
-Assets: openai.svg, claude.svg, gemini.svg, deepseek.svg, deepmind.svg, nvidia.svg, meta.svg, huggingface.svg, qwen.svg, copilot.svg
+Assets: openai.svg, claude.svg, gemini.svg, deepseek.svg, deepmind.svg, nvidia.svg, meta.svg, huggingface.svg, qwen.svg, copilot.svg,
+kimi.svg (kimi-color), mistral.svg (mistral-color), grok.svg, zhipu.svg (zhipu-color), doubao.svg (doubao-color), minimax.svg (minimax-color)
 License: MIT (included below).
 Geometry and colors are preserved; SVG files are served locally.
 
